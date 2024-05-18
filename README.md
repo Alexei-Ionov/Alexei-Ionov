@@ -29,7 +29,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vim,git,github,vscode,react,rpc,docker" />
-    <img src="https://skillicons.dev/icons?i=c,java,python,javascript,sql,golang,x86,riscv" /><br>
+    <img src="https://skillicons.dev/icons?i=c,java,python,javascript,sql,golang" /><br>
 </div>
 
 <br/>
