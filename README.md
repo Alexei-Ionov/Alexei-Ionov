@@ -10,7 +10,7 @@
  🌱 I’m currently learning **GoLang and JavaScript**
 
 
-⚡ I'm someone that's passionate about **lower-level design, operating systems, and softare development**
+⚡ I'm someone that's passionate about **lower-level design, operating systems, and software development**
 
  </div>
  
