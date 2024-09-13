@@ -7,10 +7,10 @@
 <div align="center">
  
 
- 🌱 I’m currently learning **GoLang and JavaScript**
+ 🌱 I’m currently learning **C++**
 
 
-⚡ I'm someone that's passionate about **lower-level design, operating systems, and software development**
+⚡ I'm someone that's passionate about **operating systems, networks, system architecture, software development**
 
  </div>
  
