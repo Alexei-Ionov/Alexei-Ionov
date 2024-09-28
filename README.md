@@ -7,10 +7,10 @@
 <div align="center">
  
 
- Currently learning **C++**
+ Currently learning **JS, Golang, C++**
 
 
- I'm someone that's passionate about **operating systems, networks, system architecture, software development**
+ I'm someone that's passionate about **operating systems, system architecture, software development**
 
  </div>
  
