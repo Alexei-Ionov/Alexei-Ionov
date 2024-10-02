@@ -7,7 +7,7 @@
 <div align="center">
  
 
- Currently learning **JS, Golang, C++**
+ Currently learning **Golang, C++**
 
 
  I'm someone that's passionate about **operating systems, system architecture, software development**
