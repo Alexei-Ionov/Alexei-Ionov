@@ -9,7 +9,8 @@
 
 
 
- I'm someone that's passionate about **operating systems, systems programming, and software engineering**
+ I'm someone that's passionate about **systems programming and software engineering**
+ 
 
  </div>
  
